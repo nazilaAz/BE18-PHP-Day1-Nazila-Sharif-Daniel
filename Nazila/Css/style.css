@@ -29,3 +29,20 @@ body {
     font-weight: 500;
     padding-left: 5px;
 }
+
+.containerad {
+    margin: 0 auto;
+}
+
+img {
+    align-self: center;
+    padding-top: 1rem;
+}
+
+.card {
+    margin: 2rem 0;
+}
+
+.customrow {
+    margin: 2rem auto;
+}
