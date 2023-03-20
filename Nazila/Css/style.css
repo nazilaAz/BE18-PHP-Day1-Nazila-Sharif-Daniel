@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    font-size: 18px;
+    background-color: antiquewhite;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.container h1 {
+    position: absolute;
+    width: 5.5rem;
+    height: 2.7rem;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px;
+    /* margin is -0.5 * dimension */
+    margin-top: -25px;
+}
